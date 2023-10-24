@@ -11,6 +11,8 @@ Hi, I'm Derrick, a passionate individual with a deep interest in technology and 
 - Front-end technologies like HTML, CSS, and JavaScript.
 - Version control and Git workflows.
 - Web development frameworks and libraries.
+- Python
+- Artificial intelligence 
 
 🤝 **I'm Open to Collaboration**
 - I'm looking for opportunities to collaborate on exciting web development projects.
