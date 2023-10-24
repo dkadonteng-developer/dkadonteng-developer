@@ -19,7 +19,7 @@ Hi, I'm Derrick, a passionate individual with a deep interest in technology and 
 📫 **How to Reach Me**
 - 📧 You can contact me via email at [officialadonteng@gmail.com](mailto:officialadonteng@gmail.com).
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/derrickkwakuadonteng).
-- 🌐 Visit my portfolio website at [Your Portfolio Website](https://linktr.ee/derrickkwakuadonteng)
+- 🌐 Visit me at [linktree](https://linktr.ee/derrickkwakuadonteng)
 
 Let's innovate, code, and create amazing things together! 😄
 
